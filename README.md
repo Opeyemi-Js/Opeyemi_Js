@@ -15,4 +15,4 @@
 <!-- and more such images with different URLs in src -->
 </p>
 ---
-[![Opeyemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=opeyemi_js)](https://github.com/anuraghazra/github-readme-stats)
+[![Opeyemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=opeyemi_js)](https://github.com/opeyemi_js/github-readme-stats)
