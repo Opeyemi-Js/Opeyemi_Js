@@ -6,3 +6,6 @@
 - I'm currently learning Javascript.
 - I'm Open for Freelancing projects.
 - I love chess playing.
+
+  #Connect with me
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FOpeyemi_Js&style=social&logo=twitter&logoColor=blue&label=twitter&labelColor=white&color=white)
