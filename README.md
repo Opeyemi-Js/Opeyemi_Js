@@ -14,3 +14,5 @@
 <img style="padding:5px;" align="center" alt="CSS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <!-- and more such images with different URLs in src -->
 </p>
+---
+[![Opeyemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=opeyemi_js)](https://github.com/anuraghazra/github-readme-stats)
